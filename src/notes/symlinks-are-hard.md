@@ -21,3 +21,5 @@ and understand them.
   [PR](https://github.com/rust-lang/rust/pull/129187)
 - my review comment for `incr-add-rust-src-component` rmake.rs PR:
   <https://github.com/rust-lang/rust/pull/128562#discussion_r1719902008>
+- see std's implementation of `fs::remove_dir_all` (thank you Chris for fixing all the whack edge
+  cases)
