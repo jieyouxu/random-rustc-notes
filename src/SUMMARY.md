@@ -5,6 +5,7 @@
 # Blog posts
 
 - [Blog posts home](blog/index.md)
+    - [2024-08-21 Investigating spurious Windows CI failures](blog/2024-08-21-spurious-windows-ci-failures.md)
     - [2024-06-02 A ferrisClueless reviewer](blog/2024-06-02-ferris-clueless-reviewer.md)
 
 # Random notes
