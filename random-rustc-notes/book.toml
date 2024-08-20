@@ -1,0 +1,13 @@
+[book]
+authors = ["许杰友 Jieyou Xu (Joe)"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Random rustc notes"
+
+[rust]
+edition = "2021"
+
+[preprocessor.index]
+
+[preprocessor.links]
