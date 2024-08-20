@@ -1,8 +1,9 @@
 # Investigating spurious Windows CI failures
 
-| Metadata       |            |
-|----------------|------------|
-| Date published | 2024-08-21 |
+| Metadata       |             |
+|----------------|-------------|
+| Date published | 2024-08-21  |
+| Status         | In progress |
 
 // TODO(jieyouxu): keep updating this page
 
